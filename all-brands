@@ -1,0 +1,149 @@
+[
+  {
+    "_Id": "1",
+    "brand_name": "Netflix",
+    "rating": 4.8,
+    "description": "Stream unlimited movies, TV shows, and documentaries worldwide.",
+    "brand_logo": "https://i.ibb.co.com/D17t0nR/netflix.png",
+    "coupons": [
+      {
+        "coupon_code": "NETFLIX10",
+        "description": "10% off on the first month of subscription.",
+        "expiry_date": "2024-12-31",
+        "condition": "New users only.",
+        "coupon_type": "Percentage"
+      }
+    ],
+    "shop_link": "https://netflix.com",
+    "category": "Streaming",
+    "isSaleOn": false
+  },
+  {
+    "_Id": "2",
+    "brand_name": "Daraz",
+    "rating": 4.5,
+    "description": "Leading online shopping platform with deals across all categories.",
+    "brand_logo": "https://i.ibb.co.com/PNFfbb4/daraz.webp",
+    "coupons": [
+      {
+        "coupon_code": "DARAZ20",
+        "description": "20% off on orders above $50.",
+        "expiry_date": "2024-11-30",
+        "condition": "Maximum discount $20.",
+        "coupon_type": "Percentage"
+      },
+      {
+        "coupon_code": "FREEDELIVERY",
+        "description": "Free delivery on your first order.",
+        "expiry_date": "2024-06-30",
+        "condition": "Valid for new customers.",
+        "coupon_type": "Shipping"
+      }
+    ],
+    "shop_link": "https://daraz.com",
+    "category": "E-commerce",
+    "isSaleOn": true
+  },
+  {
+    "_Id": "3",
+    "brand_name": "Foodpanda",
+    "rating": 4.7,
+    "description": "Fast and reliable food delivery from your favorite restaurants.",
+    "brand_logo": "https://i.ibb.co.com/xq3tsMq/foodpanda.png",
+    "coupons": [
+      {
+        "coupon_code": "PANDA30",
+        "description": "30% off on your first order.",
+        "expiry_date": "2024-10-31",
+        "condition": "Maximum discount $15.",
+        "coupon_type": "Percentage"
+      },
+      {
+        "coupon_code": "PANDAFREE",
+        "description": "Free delivery on orders over $20.",
+        "expiry_date": "2024-08-31",
+        "condition": "Valid for participating restaurants only.",
+        "coupon_type": "Shipping"
+      }
+    ],
+    "shop_link": "https://foodpanda.com",
+    "category": "Food Delivery",
+    "isSaleOn": true
+  },
+  {
+    "_Id": "4",
+    "brand_name": "Chaldal",
+    "rating": 4.6,
+    "description": "Your online grocery store for fresh and affordable products.",
+    "brand_logo": "https://i.ibb.co.com/dt9B755/chaldal.jpg",
+    "coupons": [
+      {
+        "coupon_code": "CHALDAL15",
+        "description": "15% off on orders above $30.",
+        "expiry_date": "2024-12-15",
+        "condition": "Maximum discount $10.",
+        "coupon_type": "Percentage"
+      }
+    ],
+    "shop_link": "https://chaldal.com",
+    "category": "Groceries",
+    "isSaleOn": false
+  },
+  {
+    "_Id": "5",
+    "brand_name": "Netflix",
+    "rating": 4.9,
+    "description": "Enjoy exclusive shows and blockbusters on Netflix.",
+    "brand_logo": "https://i.ibb.co.com/D17t0nR/netflix.png",
+    "coupons": [
+      {
+        "coupon_code": "PREMIUM25",
+        "description": "25% off on a 6-month subscription plan.",
+        "expiry_date": "2024-09-30",
+        "condition": "Offer valid for a limited time.",
+        "coupon_type": "Percentage"
+      }
+    ],
+    "shop_link": "https://netflix.com",
+    "category": "Streaming",
+    "isSaleOn": true
+  },
+  {
+    "_Id": "6",
+    "brand_name": "Daraz",
+    "rating": 4.4,
+    "description": "Shop the best deals and discounts on Daraz.",
+    "brand_logo": "https://i.ibb.co.com/PNFfbb4/daraz.webp",
+    "coupons": [
+      {
+        "coupon_code": "FLASH10",
+        "description": "10% off during flash sales.",
+        "expiry_date": "2024-07-31",
+        "condition": "Check flash sale timings on the website.",
+        "coupon_type": "Percentage"
+      }
+    ],
+    "shop_link": "https://daraz.com",
+    "category": "E-commerce",
+    "isSaleOn": true
+  },
+  {
+    "_Id": "7",
+    "brand_name": "Foodpanda",
+    "rating": 4.8,
+    "description": "Order meals from the best local restaurants with Foodpanda.",
+    "brand_logo": "https://i.ibb.co.com/xq3tsMq/foodpanda.png",
+    "coupons": [
+      {
+        "coupon_code": "DINNERDEAL",
+        "description": "20% off on dinner orders above $25.",
+        "expiry_date": "2024-12-01",
+        "condition": "Applicable for orders placed after 6 PM.",
+        "coupon_type": "Percentage"
+      }
+    ],
+    "shop_link": "https://foodpanda.com",
+    "category": "Food Delivery",
+    "isSaleOn": false
+  }
+]
